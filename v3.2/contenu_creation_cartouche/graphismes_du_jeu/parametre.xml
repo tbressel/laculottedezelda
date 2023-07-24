@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <sizeMode>Fit</sizeMode>
+  <methode>0</methode>
+  <matrice>2</matrice>
+  <pct>106</pct>
+  <lockState>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+    <int>1</int>
+  </lockState>
+  <pctLumi>100</pctLumi>
+  <pctSat>100</pctSat>
+  <pctContrast>100</pctContrast>
+  <cpcPlus>true</cpcPlus>
+  <newMethode>false</newMethode>
+  <reductPal1>false</reductPal1>
+  <reductPal2>true</reductPal2>
+  <newReduct>true</newReduct>
+  <sortPal>true</sortPal>
+  <pixMode>1</pixMode>
+</Param>

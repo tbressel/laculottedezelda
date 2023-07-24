@@ -1,0 +1,126 @@
+HYRULE
+
+
+Wooden sword
+You can get it exactly at the same place than NES version. It takes 1 life point from enemy.
+I doesn't permit to hit statue, it's the only use of it : Killing !!
+
+Candle (it's the only candle of the game)
+You can buy it for 60 ruppees. It will only allow to burn bushes of the outside world. 
+You can't burn enemies or light up dark rooms of dungeons (there aren't any dark rooms)
+
+Wooden shield
+It just permit to Link, to be untouchable during a little more time. It's the only effect of it.
+
+Magical Shield
+Link is hurt each 2 times.
+
+Letter
+A Letter given to you by an old man will allow you to buy Red or Blue potions in specialty stores.
+
+Metal sword
+You can get it exactly at the same place than NES version. It takes 2 life point from enemy.
+I doesn't permit to hit statue, it's the only use of it : Killing !!
+
+Master sword
+You can get it exactly at the same place than NES version. It takes 4 life point from enemy.
+I doesn't permit to hit statue, it's the only use of it : Killing !!
+
+Bomb
+Bombs can explodes rocks, tree stumps, statues, and walls in dungeons. They are useless on enemies.
+
+Magic Arrows
+You can buy them for 80 Ruppes. But on shot will cost 1 rupees. It takes 2 lifes points from enemy.
+
+Recorder
+This item can reveal hidden ways across the sea.
+
+Food
+Like Mario, Link got fat because he ate too much. 
+But he becomes invulnerable during 5 screens.
+
+Letter
+The Letter is given to Link by the Old Man in a specific cave found up a staircase northeast of the Lost Hills.
+The Old Man will tell Link to "show it to the Old Woman". 
+If Link does so, the Old Woman will start selling potion at her Potion Shops.
+
+Water of Life (BLUE)
+The Water of Life is the first of two available heart-restoring potions.
+The Water of Life can be purchased at the Old Woman's Potion Shops, at the price of 40 Rupees.
+Drinking the Water of Life will fully restore Link's hearts.
+
+
+Water of Life (RED)
+The 2nd Potion can be purchased from the Old Woman's Potions Shops for 68 Rupees.
+The 2nd Potion has two doses, so it will heal of Link's hearts twice.
+It is by far the better deal compared to the Water of Life, as it costs less than two Water of Lifes and
+does the same thing.
+
+Magical Rod
+Not the same use than the original Zelda on NES. It just permits to see differents things in magic places.
+You can find it .... I won't tell you, I won't spoil you ! lol
+
+Blue Ring
+It permits to cross hidden ways.
+
+Red Ring
+On of the first objet to find at the begining of the game. You could access to the fist donjon key.
+
+Donjon Keys
+You will need a special key to open donjons.
+
+Clock
+This item will be dropped by enemies after Link has defeated them, and, when collected, will freeze every enemy on the screen.
+This makes it much too easy for Link to kill all of the enemies in the room, or just leave them there, frozen.
+
+Recovery Heart
+They are usually dropped by enemies after Link has defeated, and if collects one it will heal one of his hearts.
+
+
+Heart Container
+Once collected, they will increase Link's maximum health by one. One can be found at the end of each dungeon,
+found where the Boss was killed. 
+
+Rupees
+They can be found everywhere, most predominantly after enemies have been killed, at which point they may drop some.
+They are four variates : 
+ - Yellow Rupee : 1 Rupee.
+ - Blue Ruppee : 10 Rupees.
+ - Black Ruppe : -50 Rupees.
+ - Green Rupee : 255 Ruppees (only one in the whole game) 
+ 
+Mushrooms
+There are 3 types : green mushrooms make Link running instead of walking. Red mushrooms make Link run very very fast.
+And Rotten mushrooms make link walk like the begining of the game but reverses controle directions too.
+
+
+
+
+
+
+
+
+
+
+
+DONJONS
+
+Bow
+At the same place than NES version. You'll need somes magic arrows to use it.
+
+Raft
+It is found deep inside Level 3: The Manji, and can be used to cross large bodies of water.
+
+Stepladder
+The Stepladder is very similar to the Raft. It can be used to cross short gaps that can be found throughout
+Dungeons. It is the only item that can be used to cross these gaps, and thus is required to complete the game.
+
+Compass
+The Compass is found in every dungeon. Once Link has collected it, it will show Link the location
+of the Panties lost by Zelda and complete a piece of the Triforce.
+
+Dungeon Map
+The Dungeon Map is exactly what its name infers.
+
+
+
